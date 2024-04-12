@@ -5,7 +5,7 @@ function fetchHTML(url) {
 
 function webScrapingBadges() {
   const SPREADHEET_ID = '1RoxYLd8K9fEd3JT9TU8N3I-_TGG9xAuFCzOK6uH-6RU';
-  const SHEET_NAME = 'Badges';
+  const SHEET_NAME = 'badges';
   const urls = [
     'https://www.cloudskillsboost.google/public_profiles/0eb350ae-10ac-4381-bc1c-b2d8564e68ea',
     'https://www.cloudskillsboost.google/public_profiles/5caa68c6-2ec1-43c4-bc53-f415370e80fa',
